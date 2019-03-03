@@ -6,7 +6,7 @@
 
 ### 环境要求
 - 仅在unix环境下有效
-- php >= 5.3, pcntl extension, redis extension, posix extension
+- php >= 5.4, pcntl extension, redis extension, posix extension
 - mysql >= 5.6
 - redis-server
 
